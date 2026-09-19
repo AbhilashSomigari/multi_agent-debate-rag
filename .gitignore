@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Project runtime artifacts
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# Env vars
+.env
